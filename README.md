@@ -2,6 +2,8 @@
 
 ## Assignment Instructions 
 
+Trial line 
+
 * Each time we start new exercises, create a folder for the exercise worksheet in this repository. Create an `index.js` file inside the corresponding folder (please name your folders clearly :blush:).
 ```
 Example:
