@@ -47,4 +47,10 @@ const Mark = 26;
 const totalAge = (John > Mark) ? "John is older than Mark: true" : "No is not";
 console.log(totalAge);
 
+// ex 7
+ const a = 23;
+ const b = 26;
+ const c = 87;
+ const comp = (a === b)
+ console.log((a, b)===(a, c)===(b, c));
 
