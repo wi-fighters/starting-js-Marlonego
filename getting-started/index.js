@@ -41,3 +41,10 @@ const ageJohn = "43";
 console.log(typeof(ageMark));
 console.log(typeof(ageJohn));
 
+// 6 ex
+const John = 29;
+const Mark = 26;
+const totalAge = (John > Mark) ? "John is older than Mark: true" : "No is not";
+console.log(totalAge);
+
+
