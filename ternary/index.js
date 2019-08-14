@@ -18,3 +18,16 @@ const person = 26;
 const age = 21;
 const personAge = (person <= age) ? "Here's some juice" : "Here's some wine";
 console.log(personAge);
+
+//  4 ex
+
+const maximalAge = 21;
+const hisAge = 19; 
+const isStudent = (hisAge <= maximalAge) ? "Ticket costs €5,00" : "Ticket costs €12,00";
+console.log(isStudent);
+
+// 5 ex
+const morning = 10;
+const afternoon = 12;
+const timeOfDay = (morning >= afternoon) ? "Good Morning" : "Good evening";
+console.log(timeOfDay);
