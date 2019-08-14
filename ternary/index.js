@@ -20,10 +20,8 @@ const personAge = (person <= age) ? "Here's some juice" : "Here's some wine";
 console.log(personAge);
 
 //  4 ex
-
-const maximalAge = 21;
-const hisAge = 19; 
-const isStudent = (hisAge <= maximalAge) ? "Ticket costs €5,00" : "Ticket costs €12,00";
+const student = true;
+const isStudent = (student) ? "Ticket costs €5,00" : "Ticket costs €12,00";
 console.log(isStudent);
 
 // 5 ex
