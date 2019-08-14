@@ -24,8 +24,12 @@ const student = true;
 const isStudent = (student) ? "Ticket costs €5,00" : "Ticket costs €12,00";
 console.log(isStudent);
 
-// 5 ex
-const morning = 10;
-const afternoon = 12;
-const timeOfDay = (morning >= afternoon) ? "Good Morning" : "Good evening";
+// // 5 ex
+// const morning = 10;
+// const afternoon = 12;
+// const timeOfDay = (morning >= afternoon) ? "Good Morning" : "Good evening";
+// console.log(timeOfDay);
+
+const morning = false;
+const timeOfDay = (morning) ? "Good Morning" : "Good evening";
 console.log(timeOfDay);
