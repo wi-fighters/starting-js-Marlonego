@@ -34,4 +34,10 @@ console.log(typeof(lastName));
 console.log(typeof(car));
 console.log(typeof(isOpen));
 
+// 5 ex
+
+const ageMark = 35;
+const ageJohn = "43";
+console.log(typeof(ageMark));
+console.log(typeof(ageJohn));
 
