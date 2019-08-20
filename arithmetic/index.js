@@ -57,9 +57,15 @@ const s = (a+b+c)/(2);
 const areaTri = Math.sqrt(s * (s - a) * (s - b) * (s - c));
 console.log(areaTri);
 
-// 
+// Volume of a Cube
 const cube = Math.pow(9,3);
 console.log(`${cube} cm³`);
+
+// Basic Word Problems At the movies
+const teacher = 6450;
+const tickets = 15;
+const calculation = teacher/tickets;
+console.log(`${calculation} people purchased a ticket`);
 
 
 
