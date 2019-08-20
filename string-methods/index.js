@@ -62,4 +62,6 @@ console.log(`My name is ${firstName}. I live in ${city} and my hobby is ${hobby}
 
 
 //Capitalize
+const quick = "the quick brown fox";
+console.log(quick(0).totoUpperCase() + quick(1));
 

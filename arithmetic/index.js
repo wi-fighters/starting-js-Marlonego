@@ -1,4 +1,4 @@
-// 1.ex
+ // 1.ex
 
 const x = "17";
 const y = "30";
@@ -26,6 +26,16 @@ console.log(firstAverage);
 
 const minResult = totalPoints - firstAverage;
 console.log(`james needs ${minResult} to get an average of 80%`);
+
+// ex 5
+ const billOne = 22.35 + 1.1;
+ const billTwo = 26.67 + (26.67*0.15);
+ const billThree = 35.92 + (35.92*0.2);
+ 
+ 
+// ex 6
+const man = 4.75 * 4;
+console.log(`${man} cm`);
 
 
 
