@@ -49,7 +49,7 @@ console.log(`${triResult} cm`);
 const squareArea = 5*5;
 console.log(`${squareArea} cm `);
 
-// 
+// Area of a Triangle
 const a = 5;
 const b = 6;
 const c = 7;
@@ -57,6 +57,9 @@ const s = (a+b+c)/(2);
 const areaTri = Math.sqrt(s * (s - a) * (s - b) * (s - c));
 console.log(areaTri);
 
+// 
+const cube = Math.pow(9,3);
+console.log(`${cube} cm³`);
 
 
 
