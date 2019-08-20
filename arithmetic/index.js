@@ -44,6 +44,12 @@ const tri3 = 7;
 const triResult = (tri1+tri2+tri3);
 console.log(`${triResult} cm`);
 
+// ex 8
+
+const squareArea = 5*5;
+console.log(`${squareArea} cm `);
+
+
 
 
 
