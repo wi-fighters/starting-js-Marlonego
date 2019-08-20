@@ -37,6 +37,13 @@ console.log(`james needs ${minResult} to get an average of 80%`);
 const man = 4.75 * 4;
 console.log(`${man} cm`);
 
+//  ex 7
+const tri1 = 5;
+const tri2 = 6;
+const tri3 = 7;
+const triResult = (tri1+tri2+tri3);
+console.log(`${triResult} cm`);
+
 
 
 
