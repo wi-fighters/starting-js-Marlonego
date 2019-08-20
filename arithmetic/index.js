@@ -37,17 +37,25 @@ console.log(`james needs ${minResult} to get an average of 80%`);
 const man = 4.75 * 4;
 console.log(`${man} cm`);
 
-//  ex 7
+//  Perimeter of a Triangle
 const tri1 = 5;
 const tri2 = 6;
 const tri3 = 7;
 const triResult = (tri1+tri2+tri3);
 console.log(`${triResult} cm`);
 
-// ex 8
+// Area of a Square
 
 const squareArea = 5*5;
 console.log(`${squareArea} cm `);
+
+// 
+const a = 5;
+const b = 6;
+const c = 7;
+const s = (a+b+c)/(2);
+const areaTri = Math.sqrt(s * (s - a) * (s - b) * (s - c));
+console.log(areaTri);
 
 
 
